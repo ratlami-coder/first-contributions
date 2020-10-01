@@ -1,5 +1,4 @@
 # Contributors
-- [Jay Soni] (https://github.com/coding12190)
 - [Arun Prabhakar] (https://github/arun-prabhakar)
 - [Ivonne Y Mendoza] (https://github.com/TiaIvonne)
 - [Shreya Garg] (https://github.com/einhawking)
