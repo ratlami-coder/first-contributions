@@ -13,11 +13,6 @@
 
 如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ](https://help.github.com/articles/set-up-git/)进行安装。
 
-## Fork（复制）本代码仓库
-
-点击图示中的按钮去 Fork 这个代码仓库。
-这个操作会将代码仓库复制到你的账户名下。
-
 ## Clone（克隆）代码仓库
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
