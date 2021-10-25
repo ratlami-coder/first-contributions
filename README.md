@@ -71,11 +71,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
 
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
-
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
